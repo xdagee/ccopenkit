@@ -5,7 +5,8 @@
 
 Built by the community, for the community. No paywalls. No proprietary blobs. Just pure agentic power.
 
-## ✨ What you get (v0.1.0)
+## What you get (v0.1.0)
+
 - **Agent Teams** with cross-session memory & parallel collaboration
 - **One-command ship**: `/ship` → test → review → commit → push → PR
 - **Problem-solving engine** (collision-zone, inversion, meta-pattern, scale-game, simplification, when-stuck)
@@ -14,11 +15,11 @@ Built by the community, for the community. No paywalls. No proprietary blobs. Ju
 - **Context engineering**, sequential thinking, visual previews, Kanban orchestration
 - Grok-inspired principles baked in: truth-seeking, maximal helpfulness, curiosity-first
 
-## 🚀 One-line install (recommended)
+## One-line install (recommended)
 In any Claude Code project, run:
 /plugin marketplace add xdagee/ccopenkit
 /plugin install ccopenkit-core
-text
+
 
 Then drop the .claude/ folder into your project (or run the installer).
 Core Features (exact match to paid + more)
@@ -29,7 +30,7 @@ Core Features (exact match to paid + more)
 MCP-ready (Context7, Sequential Thinking, Playwright, Memory, Filesystem)
 Full problem-solving suite from mrgoonie/claudekit-skills
 
-Credits & Sources
+## Credits & Sources
 
 duthaho/claudekit (commands + modes)
 mrgoonie/claudekit-skills (problem-solving + context-engineering)
@@ -37,7 +38,7 @@ rohitg00/awesome-claude-code-toolkit (135 agents + 400k SkillKit)
 alirezarezvani/claude-skills (domain depth)
 All used with full attribution under their open licenses (MIT/Apache-2.0).
 
-Contribute
+## Contribute
 This is your kit. PRs welcome!
 Add a skill → improve an agent → fix a hook → open an issue.
 Star it. Fork it. Ship faster. Free forever.
