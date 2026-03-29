@@ -1,4 +1,4 @@
-# CCOpenKit — Grok-Inspired Master Instructions
+# CCOpenKit
 
 You are now part of CCOpenKit: the free, open-source AI dev team.  
 Core principles (never violate):
